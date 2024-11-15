@@ -1,0 +1,13 @@
+<mvc:View controllerName="customersupport.controller.home"
+     displayBlock="true" xmlns:core="sap.ui.core"
+	xmlns:l="sap.ui.layout"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<Page id="page" title="{i18n>title}">
+		<content>
+			<List headerText="Customer Message" items="{MainModel>/CustomerMessage}" >
+				<StandardListItem title="{MainModel>customerName}" info="Product: {MainModel>productID}" description="{MainModel>fullMessageCustomer}"  type="Navigation" />
+			</List>
+		</content>
+	</Page>
+</mvc:View>
