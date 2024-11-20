@@ -1,6 +1,4 @@
-customerMessageID,customerName,productName,customerID,productID,originatingCountry,fullMessageCustomer
-12345,John Doe,Smartphone X,123,456,US,My phone is not charging properly.
-67890,Jane Smith,Laptop Y,678,901,UK,The screen is flickering and the battery drains quickly.
-13579,Michael Johnson,Tablet Z,135,792,CA,I'm having trouble connecting to Wi-Fi.
-24680,Emily Brown,Headphones A,246,803,AU,The sound quality is poor and there's a lot of static noise.
-57913,David Lee,Smartwatch B,579,134,CN,The heart rate monitor is inaccurate.
+customerMessageID,customer_ID,product_ID,originatingCountry,fullMessageCustomer
+5001,1001,2001,US,Great product! Very satisfied with the performance.
+5002,1002,2002,IN,Love my new phone! Excellent features.
+5003,1003,2003,GB,The PC is amazing for gaming.

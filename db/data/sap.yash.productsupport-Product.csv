@@ -1,0 +1,6 @@
+ID,Name,Description,ReleaseDate,DiscontinuedDate,Rating,Price,Categories_ID,Supplier_ID
+2001,Laptop X1,High-performance laptop,2022-01-15,2022-02-15,5,1200.00,4001,3001
+2002,Mobile Y2,Latest smartphone,2023-05-20,2023-06-20,4,800.00,4002,3002
+2003,PC Z3,Gaming desktop PC,2021-09-10,2023-09-10,5,1500.00,4003,3003
+2004,Speaker A4,Bluetooth speaker,2020-11-30,2021-09-10,4,150.00,4004,3001
+2005,Laptop X2,Ultrabook for professionals,2023-02-10,2025-09-10,5,1400.00,4001,3002
